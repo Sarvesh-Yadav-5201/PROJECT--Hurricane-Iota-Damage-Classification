@@ -19,8 +19,8 @@
 # <b> RESULTS : 
 * CNN AUTOENCODERS : 
 
-![Auto_encoder](Image/Autoencoder Results.png)
+![Auto_encoder](Image/AutoencoderResults.png)
 
 * SALIENCY MAPS :
   
-![Saliency Map](Image/Saliency Maps.png)
+![Saliency Map](Image/SaliencyMaps.png)
